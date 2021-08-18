@@ -3,6 +3,7 @@ $(document).ready(function () {
     $('.slick-slider').bxSlider({
         minSlides: 1,
         maxSlides: 1,
+        auto: true,
         controls: false
     });
 
